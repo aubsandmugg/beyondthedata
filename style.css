@@ -51,7 +51,7 @@ html {
 
 html {
 	color: #000;
-	background-color: #fef3d1;
+	background-color: #a6d3e8;
 	font-family: "Roboto", sans-serif;
 	font-size: 20px;
 	line-height: 1.45;
@@ -63,6 +63,9 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	background-image: url("assets/bg.jpg");
+	background-size: cover;
+	background-position: center center;
 	padding: 60px 30px;
 	min-height: 100%;
 }
